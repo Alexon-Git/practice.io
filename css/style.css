@@ -1,0 +1,24 @@
+.content{
+display: none;
+background-color: goldenrod;
+padding: 10px 10px;
+width: 400px;
+border-radius: 28px;
+font-size: 24px;
+border: 6px solid #c58805;
+}
+p{
+	margin: 0px;
+}
+
+#cookie-btn{
+	border: none;
+	border-radius: 10px;
+	text-align: right;
+	float: right;
+	padding: 8px 15px;
+  margin: 0 25px 10px 0;
+	border: 2px solid rgb(103, 10, 196);
+	background-color: rgb(247, 216, 139);
+}
+
